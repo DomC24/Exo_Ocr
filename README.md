@@ -1,7 +1,7 @@
 # Exo_Ocr
 Git &amp; GitHub - Partie 2 Activité
 
-Cet dossier contient:
+Ce dossier contient:
 
 - un fichier HTML
 - un fichier CSS
